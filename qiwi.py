@@ -1,0 +1,5 @@
+from SimpleQIWI import *
+
+QIWI_TOKEN = 'a0daccc79b21d5b9d0c6c7bb75a38638'
+QIWI_ACCOUNT = '+89773767236'
+api = QApi(QIWI_TOKEN, QIWI_ACCOUNT)
